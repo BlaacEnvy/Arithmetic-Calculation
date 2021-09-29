@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632903949 source:c:\users\student8\desktop\c programming\calculating arithmetic operations\calculating_arithimetic_operations_if_elseif\main.c
+	<stdio.h>
+	<stdlib.h>
+

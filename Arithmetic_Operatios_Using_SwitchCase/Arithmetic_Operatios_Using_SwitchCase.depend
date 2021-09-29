@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632908530 source:c:\users\student8\desktop\c programming\calculating arithmetic operations\arithmetic_operatios_using_switchcase\main.c
+	<stdio.h>
+	<stdlib.h>
+
